@@ -1,0 +1,4 @@
+[submodule "stesi/cf_web_gantt_project"]
+	path = stesi/cf_web_gantt_project
+	url = git@github.com:stesi/cf_web_gantt_project.git
+	branch = 14
