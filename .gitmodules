@@ -22,3 +22,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 14.0
+
+[submodule "stesi/timesheet"]
+	path = stesi/timesheet
+	url = git@github.com:stesi/timesheet.git
+	branch = 14.0
