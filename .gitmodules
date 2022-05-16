@@ -37,3 +37,8 @@
 	path = stesi/stesi_attendance_timesheet_improvements
 	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
 	branch = main
+
+[submodule "ingegniamo/mrp_report_with_availability"]
+	path = ingegniamo/mrp_report_with_availability
+	url = git@github.com:ingegniamo/mrp_report_with_availability.git
+	branch = 14.0
