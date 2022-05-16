@@ -47,3 +47,8 @@
 	path = ingegniamo/mrp_report_with_availability_xlsx
 	url = git@github.com:ingegniamo/mrp_report_with_availability_xlsx.git
 	branch = 14.0
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 14.0
