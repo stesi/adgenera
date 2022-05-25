@@ -52,3 +52,8 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 14.0
+
+[submodule "ingegniamo/adgenera_custom"]
+	path = ingegniamo/adgenera_custom
+	url = git@github.com:ingegniamo/adgenera_custom.git
+	branch = 14.0
