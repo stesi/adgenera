@@ -37,3 +37,23 @@
 	path = stesi/stesi_attendance_timesheet_improvements
 	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
 	branch = main
+
+[submodule "ingegniamo/mrp_report_with_availability"]
+	path = ingegniamo/mrp_report_with_availability
+	url = git@github.com:ingegniamo/mrp_report_with_availability.git
+	branch = 14.0
+
+[submodule "ingegniamo/mrp_report_with_availability_xlsx"]
+	path = ingegniamo/mrp_report_with_availability_xlsx
+	url = git@github.com:ingegniamo/mrp_report_with_availability_xlsx.git
+	branch = 14.0
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 14.0
+
+[submodule "ingegniamo/adgenera_custom"]
+	path = ingegniamo/adgenera_custom
+	url = git@github.com:ingegniamo/adgenera_custom.git
+	branch = 14.0
