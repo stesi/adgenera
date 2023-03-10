@@ -1,27 +1,27 @@
 [submodule "OCA/l10n-italy"]
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/account-financial-reporting"]
 	path = OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "stesi/timesheet"]
 	path = stesi/timesheet
@@ -31,12 +31,12 @@
 [submodule "OCA/web"]
 	path = OCA/web
 	url = git@github.com:OCA/web.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "stesi/stesi_attendance_timesheet_improvements"]
 	path = stesi/stesi_attendance_timesheet_improvements
 	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ingegniamo/mrp_report_with_availability"]
 	path = ingegniamo/mrp_report_with_availability
@@ -51,7 +51,7 @@
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ingegniamo/adgenera_custom"]
 	path = ingegniamo/adgenera_custom
@@ -61,22 +61,22 @@
 [submodule "OCA/account-analytic"]
 	path = OCA/account-analytic
 	url = git@github.com:OCA/account-analytic.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/purchase-workflow"]
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/stock-logistics-warehouse"]
 	path = OCA/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "stesi/stesi_stock"]
 	path = stesi/stesi_stock
@@ -86,12 +86,12 @@
 [submodule "OCA/stock-logistics-workflow"]
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/manufacture"]
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ingegniamo/ob_chatter_position"]
 	path = ingegniamo/ob_chatter_position
@@ -101,4 +101,4 @@
 [submodule "ingegniamo/hr_stesi_sheet"]
 	path = ingegniamo/hr_stesi_sheet
 	url = git@github.com:ingegniamo/hr_stesi_sheet.git
-	branch = 14.0
+	branch = 16.0
