@@ -82,3 +82,13 @@
 	path = ingegniamo/mrp_bom_overview_delta
 	url = git@github.com:ingegniamo/mrp_bom_overview_delta.git
 	branch = 16.0
+
+[submodule "ingegniamo/sh_import_lot_serial_picking"]
+	path = ingegniamo/sh_import_lot_serial_picking
+	url = git@github.com:ingegniamo/sh_import_lot_serial_picking.git
+	branch = 16.0
+
+[submodule "ingegniamo/sh_message"]
+	path = ingegniamo/sh_message
+	url = git@github.com:ingegniamo/sh_message.git
+	branch = 16.0
