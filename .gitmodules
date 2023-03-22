@@ -97,3 +97,8 @@
 	path = ingegniamo/mrp_show_subcontracting_all
 	url = git@github.com:ingegniamo/mrp_show_subcontracting_all.git
 	branch = 16.0
+
+[submodule "ingegniamo/mrp_progress_track"]
+	path = ingegniamo/mrp_progress_track
+	url = git@github.com:ingegniamo/mrp_progress_track.git
+	branch = 16.0
