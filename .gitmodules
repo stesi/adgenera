@@ -112,3 +112,8 @@
 	path = ingegniamo/approvals_analytic_purchase
 	url = git@github.com:ingegniamo/approvals_analytic_purchase.git
 	branch = 16.0
+
+[submodule "ingegniamo/hr_stesi_sheet_project_timesheet_holidays"]
+	path = ingegniamo/hr_stesi_sheet_project_timesheet_holidays
+	url = git@github.com:ingegniamo/hr_stesi_sheet_project_timesheet_holidays.git
+	branch = 16.0
