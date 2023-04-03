@@ -107,3 +107,8 @@
 	path = ingegniamo/sh_bom_structure_excel
 	url = git@github.com:ingegniamo/sh_bom_structure_excel.git
 	branch = 16.0
+
+[submodule "ingegniamo/approvals_analytic_purchase"]
+	path = ingegniamo/approvals_analytic_purchase
+	url = git@github.com:ingegniamo/approvals_analytic_purchase.git
+	branch = 16.0
