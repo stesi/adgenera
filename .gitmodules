@@ -117,3 +117,8 @@
 	path = ingegniamo/hr_stesi_sheet_project_timesheet_holidays
 	url = git@github.com:ingegniamo/hr_stesi_sheet_project_timesheet_holidays.git
 	branch = 16.0
+
+[submodule "ingegniamo/holiday_from_timesheet"]
+	path = ingegniamo/holiday_from_timesheet
+	url = git@github.com:ingegniamo/holiday_from_timesheet.git
+	branch = 16.0
