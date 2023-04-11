@@ -122,3 +122,8 @@
 	path = ingegniamo/holiday_from_timesheet
 	url = git@github.com:ingegniamo/holiday_from_timesheet.git
 	branch = 16.0
+
+[submodule "ingegniamo/stesi_import_lot_serial_picking"]
+	path = ingegniamo/stesi_import_lot_serial_picking
+	url = git@github.com:ingegniamo/stesi_import_lot_serial_picking.git
+	branch = 16.0
