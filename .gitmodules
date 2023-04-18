@@ -127,3 +127,8 @@
 	path = ingegniamo/stesi_import_lot_serial_picking
 	url = git@github.com:ingegniamo/stesi_import_lot_serial_picking.git
 	branch = 16.0
+
+[submodule "ingegniamo/stock_lot_show_buyer"]
+	path = ingegniamo/stock_lot_show_buyer
+	url = git@github.com:ingegniamo/stock_lot_show_buyer.git
+	branch = 16.0
