@@ -132,3 +132,8 @@
 	path = ingegniamo/stock_lot_show_buyer
 	url = git@github.com:ingegniamo/stock_lot_show_buyer.git
 	branch = 16.0
+
+[submodule "ingegniamo/stesi_profit-loss_analytic_line_draft"]
+	path = ingegniamo/stesi_profit-loss_analytic_line_draft
+	url = git@github.com:ingegniamo/stesi_profit-loss_analytic_line_draft.git
+	branch = 16.0
