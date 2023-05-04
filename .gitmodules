@@ -137,3 +137,8 @@
 	path = ingegniamo/stesi_profit-loss_analytic_line_draft
 	url = git@github.com:ingegniamo/stesi_profit-loss_analytic_line_draft.git
 	branch = 16.0
+
+[submodule "ingegniamo/stock_serial_out_show_only_on_stock"]
+	path = ingegniamo/stock_serial_out_show_only_on_stock
+	url = git@github.com:ingegniamo/stock_serial_out_show_only_on_stock.git
+	branch = 16.0
