@@ -142,3 +142,8 @@
 	path = ingegniamo/stock_serial_out_show_only_on_stock
 	url = git@github.com:ingegniamo/stock_serial_out_show_only_on_stock.git
 	branch = 16.0
+
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 16.0
