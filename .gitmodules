@@ -152,3 +152,8 @@
 	path = ingegniamo/hr_timesheet_restrict_update
 	url = git@github.com:ingegniamo/hr_timesheet_restrict_update.git
 	branch = 16.0
+
+[submodule "ingegniamo/mrp_bom_enable_byProducts_with_subcontracting"]
+	path = ingegniamo/mrp_bom_enable_byProducts_with_subcontracting
+	url = git@github.com:ingegniamo/mrp_bom_enable_byProducts_with_subcontracting.git
+	branch = 16.0
