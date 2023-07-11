@@ -157,3 +157,8 @@
 	path = ingegniamo/mrp_bom_enable_byProducts_with_subcontracting
 	url = git@github.com:ingegniamo/mrp_bom_enable_byProducts_with_subcontracting.git
 	branch = 16.0
+
+[submodule "oca/stock-logistics-workflow"]
+	path = oca/stock-logistics-workflow
+	url = git@github.com:oca/stock-logistics-workflow.git
+	branch = 16.0
