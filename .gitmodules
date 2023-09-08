@@ -172,3 +172,8 @@
 	path = ingegniamo/stesi_hr_timesheet_sheet_autodraft
 	url = git@github.com:ingegniamo/stesi_hr_timesheet_sheet_autodraft.git
 	branch = 16.0
+
+[submodule "ingegniamo/mrp_subcontracting_temp_fix"]
+	path = ingegniamo/mrp_subcontracting_temp_fix
+	url = git@github.com:ingegniamo/mrp_subcontracting_temp_fix.git
+	branch = 16.0
