@@ -162,3 +162,18 @@
 	path = oca/stock-logistics-workflow
 	url = git@github.com:oca/stock-logistics-workflow.git
 	branch = 16.0
+
+[submodule "OCA/timesheet"]
+	path = OCA/timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 16.0
+
+[submodule "ingegniamo/stesi_hr_timesheet_sheet_autodraft"]
+	path = ingegniamo/stesi_hr_timesheet_sheet_autodraft
+	url = git@github.com:ingegniamo/stesi_hr_timesheet_sheet_autodraft.git
+	branch = 16.0
+
+[submodule "ingegniamo/mrp_subcontracting_temp_fix"]
+	path = ingegniamo/mrp_subcontracting_temp_fix
+	url = git@github.com:ingegniamo/mrp_subcontracting_temp_fix.git
+	branch = 16.0
