@@ -177,3 +177,8 @@
 	path = ingegniamo/mrp_subcontracting_temp_fix
 	url = git@github.com:ingegniamo/mrp_subcontracting_temp_fix.git
 	branch = 16.0
+
+[submodule "ingegniamo/l10n_it_delivery_note_serial_fix"]
+	path = ingegniamo/l10n_it_delivery_note_serial_fix
+	url = git@github.com:ingegniamo/l10n_it_delivery_note_serial_fix.git
+	branch = 16.0
