@@ -197,3 +197,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 16.0
+
+[submodule "ingegniamo/compoze_no_auto_subscribe"]
+	path = ingegniamo/compoze_no_auto_subscribe
+	url = git@github.com:ingegniamo/compoze_no_auto_subscribe.git
+	branch = 16.0
