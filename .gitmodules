@@ -192,3 +192,8 @@
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 16.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 16.0
