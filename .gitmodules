@@ -182,3 +182,8 @@
 	path = ingegniamo/l10n_it_delivery_note_serial_fix
 	url = git@github.com:ingegniamo/l10n_it_delivery_note_serial_fix.git
 	branch = 16.0
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 16.0
