@@ -202,3 +202,8 @@
 	path = ingegniamo/compoze_no_auto_subscribe
 	url = git@github.com:ingegniamo/compoze_no_auto_subscribe.git
 	branch = 16.0
+
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 16.0
