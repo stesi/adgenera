@@ -182,3 +182,28 @@
 	path = ingegniamo/l10n_it_delivery_note_serial_fix
 	url = git@github.com:ingegniamo/l10n_it_delivery_note_serial_fix.git
 	branch = 16.0
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 16.0
+
+[submodule "stesi/stesi_accounting"]
+	path = stesi/stesi_accounting
+	url = git@github.com:stesi/stesi_accounting.git
+	branch = 16.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 16.0
+
+[submodule "ingegniamo/compoze_no_auto_subscribe"]
+	path = ingegniamo/compoze_no_auto_subscribe
+	url = git@github.com:ingegniamo/compoze_no_auto_subscribe.git
+	branch = 16.0
+
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 16.0
