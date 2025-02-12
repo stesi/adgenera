@@ -212,3 +212,8 @@
 	path = OCA/calendar
 	url = git@github.com:OCA/calendar.git
 	branch = 16.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 16.0
