@@ -232,3 +232,8 @@
 	path = ingegniamo/hide_menu_user
 	url = git@github.com:ingegniamo/hide_menu_user.git
 	branch = 16.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 16.0
