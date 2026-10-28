@@ -158,11 +158,6 @@
 	url = git@github.com:ingegniamo/mrp_bom_enable_byProducts_with_subcontracting.git
 	branch = 16.0
 
-[submodule "oca/stock-logistics-workflow"]
-	path = oca/stock-logistics-workflow
-	url = git@github.com:oca/stock-logistics-workflow.git
-	branch = 16.0
-
 [submodule "OCA/timesheet"]
 	path = OCA/timesheet
 	url = git@github.com:OCA/timesheet.git
@@ -241,4 +236,9 @@
 [submodule "stesi/l10n-italy-missing"]
 	path = stesi/l10n-italy-missing
 	url = git@github.com:stesi/l10n-italy-missing.git
+	branch = 16.0
+
+[submodule "ingegniamo/stock_subcontractor_rest"]
+	path = ingegniamo/stock_subcontractor_rest
+	url = git@github.com:ingegniamo/stock_subcontractor_rest.git
 	branch = 16.0
